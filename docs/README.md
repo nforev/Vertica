@@ -1,1 +1,0 @@
-# Vertica doc - recovery
