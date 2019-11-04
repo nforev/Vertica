@@ -6,7 +6,7 @@
 
 * Author：Zheng Wang
 * @Copy-right：No such thing
-* Draft：1.0
+* Draft：0.91
 
 [GitHub](https://github.com/nforev/Vertica)
 [Get Started](/Agenda)
