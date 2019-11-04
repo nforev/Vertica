@@ -1,4 +1,4 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://www.vertica.com/wp-content/uploads/2017/09/vertica_wht_rgb@2x.png)
 
 # Vertica Recovery Fast Solution
 
